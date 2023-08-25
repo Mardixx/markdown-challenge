@@ -45,4 +45,4 @@ I was **super** excited because I wanted to try it for **so** long and I could f
 
 I went on a camping trip, had a bad landing on a zipline, didn't go to the hospital. It still hurts sometimes.
 
-[<<previous]|Kimi Lefort|[next>>]
+[<<previous](https://github.com/antoinel74/markdown-challenge)|Kimi Lefort|[next>>](https://github.com/JustineLeleu/markdown-challenge)
