@@ -15,14 +15,14 @@ I'm a **big fan** of things that make my brain *hot*.
 
 ## Hobbies
 
--Music
-    -**Rock**
-    -**Metal**
-    -*JPop* (Mostly Anime openings)
--Movies / Series
-    -SuperHeroes
-        -Spider-Man
-        -Iron Man
-    -Action
-        -Breaking Bad
-        -The Rookie
+-Music  
+    -**Rock**  
+    -**Metal**  
+    -*JPop* (Mostly Anime openings)  
+-Movies / Series  
+    -SuperHeroes  
+        -Spider-Man  
+        -Iron Man  
+    -Action  
+        -Breaking Bad  
+        -The Rookie  
