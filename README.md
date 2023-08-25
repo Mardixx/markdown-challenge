@@ -4,7 +4,7 @@
 
 ##*With great power comes great responsibility*
 
-[!(/home/becode/Images/KimiLefortPic(pro).jpeg)]
+![My beautiful face](/home/becode/Images/KimiLefortPic.jpeg)
 
 I'm a **big fan** of things that make my brain *hot*.
 
