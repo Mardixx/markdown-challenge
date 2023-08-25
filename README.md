@@ -11,7 +11,7 @@ I'm a **big fan** of things that make my brain *hot*.
 | About me |  
 | Born *9th* of December 2004 |  
 | My favorite **color** is *teal* || My **favorite** food are *Carbonaras* |  
-| [x] Pineapple on pizza: Yes / No |  
+|- [x] Pineapple on pizza: Yes / No |  
 
 ## Hobbies
 
@@ -44,3 +44,5 @@ I was **super** excited because I wanted to try it for **so** long and I could f
 ### Recap 
 
 I went on a camping trip, had a bad landing on a zipline, didn't go to the hospital. It still hurts sometimes.
+
+[<<previous]|Kimi Lefort|[next>>]
