@@ -2,7 +2,7 @@
 
 # Kimi Lefort
 
-## *With great power comes great responsibility* Ben Parker
+## *With great power comes great responsibility*
 
 ![My beautiful face (jk)](KimiLefortPic.jpeg)
 
