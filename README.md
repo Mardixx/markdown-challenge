@@ -12,7 +12,7 @@ I'm a **big fan** of things that make my brain *hot*.
 | ---------- | ---------- |
 | Born the | *9th* of December 2004 |  
 | My favorite **color** is *teal* | My **favorite** food are *Carbonaras* |  
-| :heavy_check_mark: Pineapple on pizza: Yes / No | 
+| Pineapple on pizza: | :heavy_check_mark:|
 
 ## Hobbies
 
