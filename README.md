@@ -18,7 +18,7 @@ I'm a **big fan** of things that make my brain *hot*.
 
 - Music  
     - **Rock**  
-    - *Metal**  
+    - **Metal**  
     - *JPop* (Mostly Anime openings)  
 - Movies / Series  
     - SuperHeroes  
